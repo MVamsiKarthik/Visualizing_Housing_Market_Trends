@@ -1,0 +1,20 @@
+AMOUNT OF DATA LOADED
+
+Objective:
+To verify that the housing dataset has been loaded successfully into Tableau for analysis.
+
+Dataset Details:
+- Dataset Name: Transformed_Housing_Data2.csv
+- Total Records (Rows): 21,609
+- Total Fields (Columns): 32
+
+Observation:
+- The dataset was successfully loaded into Tableau.
+- All 21,609 records and 32 fields were imported correctly.
+- The data connection is active and working properly.
+- Data preview is available in the Data Source tab.
+- No loading or connection errors were observed.
+- The dataset is ready for visualization and further analysis.
+
+Result:
+The dataset has been loaded successfully and is ready for analysis in Tableau.
